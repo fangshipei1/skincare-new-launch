@@ -15,4 +15,4 @@ This project analyses Sephora skincare data to identify high-margin opportunitie
 ## Technical Tools
 * **Language:** [Colab](./Sephora_Products.ipynb), [SQL](./Project_New_launch.sql)
 * **Libraries:** Pandas, Matplotlib, Seaborn, Numpy, adjustText
-* **Data Source:** [Link to Kaggle Dataset](.https://www.kaggle.com/datasets/dominoweir/skincare-product-ingredients)
+* **Data Source:** [Link to Kaggle Dataset](https://www.kaggle.com/datasets/dominoweir/skincare-product-ingredients)
