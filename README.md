@@ -1,18 +1,18 @@
-# Strategic Market Entry: High-Margin Skincare Analysis
+e# Strategic Market Entry: High-Margin Skincare Analysis
 
 ## Executive Summary
-**[Link to PDF Slides](./Name_Of_Your_Presentation.pdf)**
+**[Link to PDF Slides](./Executive_Summary.pdf)**
 *(Click the link above to view the business recommendations)*
 
 ## Project Overview
-This project analyzes Sephora skincare data to identify high-margin opportunities in a saturated market. By leveraging Python (Pandas) and natural language processing, we identified that **"Eye Creams"** offer the highest ROI, while terms like **"Gel"** negatively impact pricing power.
+This project analyses Sephora skincare data to identify high-margin opportunities in a saturated market. By leveraging Python and SQL, I identified **"Eye Creams"** offer the highest ROI, while terms like **"Gel"** negatively impact pricing power.
 
 ## Key Insights
-* **The Opportunity:** Luxury eye creams ($125+) show inelastic demand (higher ratings at higher prices).
+* **The Opportunity:** Luxury eye creams ($100-130) show an opportunity gap - no product sits in this range.
 * **The Gap:** Competitors rely heavily on texture modifiers rather than active ingredients.
-* **The Strategy:** Launch a "Firming Repair Complex" avoiding the term "Gel".
+* **The Strategy:** Launch a "Firming Repair Complex", avoiding the term "Gel".
 
 ## Technical Tools
-* **Language:** Python 3.9
-* **Libraries:** Pandas, Matplotlib, adjustText, NLTK (Tokenizer)
+* **Language:** [Colab](./Sephora_Products.pdf), [SQL](./Project_New_Launch.pdf)
+* **Libraries:** Pandas, Matplotlib, Seaborn, Numpy, adjustText
 * **Data Source:** [Link to Kaggle Dataset]
