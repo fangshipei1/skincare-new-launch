@@ -1,6 +1,6 @@
 ## Executive Summary
 **[Link to PDF Slides](./Executive_Summary.pdf)**
-*(Click the link above to view the business recommendations)*
+*(Click the link to view the business recommendations)*
 
 ## Project Overview
 This project analyses Sephora skincare data to identify high-margin opportunities in a saturated market. By leveraging Python and SQL, I identified **"Eye Creams"** offer the highest ROI, while terms like **"Gel"** negatively impact pricing power.
