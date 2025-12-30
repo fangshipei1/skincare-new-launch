@@ -13,6 +13,6 @@ This project analyses Sephora skincare data to identify high-margin opportunitie
 * **The Strategy:** Launch a "Firming Repair Complex", avoiding the term "Gel".
 
 ## Technical Tools
-* **Language:** [Colab](./Sephora_Products.pdf), [SQL](./Project_New_Launch.pdf)
+* **Language:** [Colab](./Sephora_Products.ipynb), [SQL](./Project_New_launch.sql)
 * **Libraries:** Pandas, Matplotlib, Seaborn, Numpy, adjustText
-* **Data Source:** [Link to Kaggle Dataset]
+* **Data Source:** [Link to Kaggle Dataset](.https://www.kaggle.com/datasets/dominoweir/skincare-product-ingredients)
